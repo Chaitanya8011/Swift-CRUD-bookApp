@@ -11,14 +11,7 @@ BookCollectionApp is a simple **iOS app** built with **SwiftUI** and **Core Data
 ---
 
 ## 📷 Screenshots
-![Image](https://github.com/user-attachments/assets/ac5abc0f-ee6a-4e10-a761-da5ab2ea58a6)
-![Image](https://github.com/user-attachments/assets/bc604a9a-a0e2-4832-96f0-fac0fe6c1ad1)
-
-![Image](https://github.com/user-attachments/assets/423761f9-183a-4d53-8805-17a13d113d03)
-
-![Image](https://github.com/user-attachments/assets/1d47439c-fa40-4b95-8088-108760f453c7)
-
-![Image](https://github.com/user-attachments/assets/b13bc253-bba3-4bd0-a642-717045cf8737)
+![Image](https://github.com/user-attachments/assets/de74cbd7-6051-4eef-8fd3-ce1c7f973ae6)
 
 ---
 
