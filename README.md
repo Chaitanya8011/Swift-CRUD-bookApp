@@ -1,9 +1,5 @@
 # 📚 BookCollectionApp
-
 BookCollectionApp is a simple **iOS app** built with **SwiftUI** and **Core Data** that allows users to manage a collection of books. Users can **add, edit, and delete** books with details such as title, author, genre, and additional information like date added and whether the book is real.
-
----
-
 ## ✨ Features
 - 📝 **Add a Book**: Enter title, author, and genre.
 - ✏️ **Edit a Book**: Modify existing book details.
@@ -12,7 +8,6 @@ BookCollectionApp is a simple **iOS app** built with **SwiftUI** and **Core Data
 - 🔘 **Toggle Button**: Mark if the book is "real" or not.
 - 💾 **Core Data Integration**: Data is stored persistently using Core Data.
 - 🎨 **SwiftUI Interface**: Simple and intuitive user experience.
-
 ---
 
 ## 📷 Screenshots
@@ -25,9 +20,4 @@ BookCollectionApp is a simple **iOS app** built with **SwiftUI** and **Core Data
 - **Core Data** - Persistent storage
 - **Xcode** - Development environment
 
----
 
-## 🚀 Installation
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/BookCollectionApp.git
